@@ -28,7 +28,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.0",
     "lodash": "^4.17.11",
-    "sass-lint": "^1.10.2"
+    "sass-lint": "^1.13.0"
   },
   "dependencies": {
     "admin-resources": "git+https://github.com/coderthemes/admin-resources#master",
